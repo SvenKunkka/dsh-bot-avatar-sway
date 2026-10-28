@@ -1,3 +1,9 @@
+# DSH Bot Avatar Sway
+
+A DeepSeek Harness patch that makes bot avatars sway while thinking or working and keeps them still when idle. The default tilt is ±18° over 1.2 seconds, and the patch respects the system's reduced-motion setting. The bilingual usage and verification details follow.
+
+---
+
 # DSH Bot Avatar Sway / DSH 机器人头像摇摆
 
 让 DeepSeek Harness 的 Bot 在思考或执行任务时左右摇摆头像，空闲时保持静止。默认左右各倾斜 18°，周期 1.2 秒；遵循系统“减少动态效果”设置。
